@@ -1,4 +1,6 @@
-### Hi there 👋
+Computer Science fresh graduate from Binus University with specialization in Artificial Intelligence. 1 year of experience as Data Scientist Intern at Telkom Indonesia. My skills are including Python for Data Science, SQL, and Web Programming. Looking to apply and further enhance my knowledge and skills in the Data Science and Machine Learning sector. 
+
+
 
 <!--
 **rndrpp/rndrpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
