@@ -5,9 +5,13 @@
 </div>
 
 <div align="center">
+  <strong>Mochammad Rendra Putra Pratama</strong>
+  <br/>
   <strong>Data Engineer</strong> with 3+ years of experience building production-grade ETL/ELT pipelines for enterprise banking clients.
   <br/>
   Currently expanding into modern data stack: dbt · Apache Airflow · GCP · BigQuery
+  <br/><br/>
+  🌐 <a href="https://rendraputra.dev"><strong>rendraputra.dev</strong></a>
 </div>
 
 <br/>
@@ -50,6 +54,9 @@
 
 ## 🌐 Connect with Me
 <div align="center">
+  <a href="https://rendraputra.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-rendraputra.dev-070a16?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/rndrpp" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
