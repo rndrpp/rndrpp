@@ -15,7 +15,6 @@
 - 🏦 Built and maintained **ETL pipelines** for **Bank** using SQL Server & SSIS
 - 🔄 Developed **40+ stored procedures** for large-scale data transformation in production banking environment
 - ☁️ Currently building modern **ELT pipelines** on GCP (BigQuery, GCS) with dbt and Apache Airflow
-- 🎓 Pursuing **Master's in Computer Science** at Binus University (GPA 3.72/4.00)
 
 <br/>
 
@@ -46,21 +45,6 @@
 
 <br/>
 
-## 🌐 Connect with Me
-<div align="center">
-  <a href="https://rendraputra.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rendraputra.dev-070a16?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/rndrpp" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/rndrpp" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/rndrpp" target="_blank">
-    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</div>
 
 <br/>
 
