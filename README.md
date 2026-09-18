@@ -1,13 +1,11 @@
 # Hi, I'm Rend 👋
 
 <div align="center">
-  <strong>Mochammad Rendra Putra Pratama</strong>
   <br/>
   <strong>Data Engineer</strong> with 3+ years of experience building production-grade ETL/ELT pipelines for enterprise banking clients.
   <br/>
   Currently expanding into modern data stack: dbt · Apache Airflow · GCP · BigQuery
   <br/><br/>
-  🌐 <a href="https://rendraputra.dev"><strong>rendraputra.dev</strong></a>
 </div>
 
 <br/>
