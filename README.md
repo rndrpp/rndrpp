@@ -12,7 +12,7 @@
 
 ## 🔧 What I Do
 
-- 🏦 Built and maintained **ETL pipelines** for **Permata Bank** using SQL Server & SSIS
+- 🏦 Built and maintained **ETL pipelines** for **Bank** using SQL Server & SSIS
 - 🔄 Developed **40+ stored procedures** for large-scale data transformation in production banking environment
 - ☁️ Currently building modern **ELT pipelines** on GCP (BigQuery, GCS) with dbt and Apache Airflow
 - 🎓 Pursuing **Master's in Computer Science** at Binus University (GPA 3.72/4.00)
