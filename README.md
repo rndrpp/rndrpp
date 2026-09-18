@@ -1,8 +1,4 @@
-# Hi, I'm Rendra 👋
-
-<div align="center">
-  <img src="https://github.com/rndrpp/rndrpp/blob/main/header.png" alt="banner" style="width: 100%" />
-</div>
+# Hi, I'm Rend 👋
 
 <div align="center">
   <strong>Mochammad Rendra Putra Pratama</strong>
